@@ -131,7 +131,7 @@ Message: hello
 
 ## Author
 
-Your Name
+Joyjit Ghosh
 
 ## Support
 
